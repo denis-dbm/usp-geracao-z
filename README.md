@@ -1,7 +1,7 @@
 # Antes de tudo, resumindo...
 * Tempo de leitura: só 04 minutos
 * Tópicos:
-  * [Bem-vindo, visitante!](#Bem-vindo, visitante!)
+  * [Bem-vindo, visitante!](# Bem-vindo, visitante!)
   * Mas o que é geração Z? 
   * Por que a *Z* X Vida Profissional?
   * Legal. Como ajudar?
