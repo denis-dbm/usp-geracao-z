@@ -36,7 +36,7 @@ Desde já agradeço o imenso apoio. Uma atitude que pode parecer simples, mas qu
 Compartilhe em grupos com jovens de até 25 anos em 2018. Pode ser o grupo do trabalho, escola, faculdade, igreja, aquele *grupo da galera* (faz um *offtopic* lá para a pesquisa), ... Toda ajuda é bem-vinda!
 
 # Informações até o momento
-O que temos até o momento e do que precisamos:
+Atualizado em: 13/10/2018. O que temos até o momento e do que precisamos:
 1. Muitos respondentes de 1993 a 1998. **Precisamos ouvir mais pessoas que nasceram de 1998 a 2002**;
 2. 60% são homens. **Cadê as mulheres (#girlpower)?** Ah! Ouvir pessoas que **não se identificam com os gêneros biológicos é importante**, estamos sentindo falta da opinião destas pessoas, pois a pesquisa inclui e quer ouvir estas pessoas.
 3. Precisamos de pessoas de todo o Brasil. Há maior participação da região Sudeste do Brasil. Sendo assim, é importante divulgar para pessoas de outras regiões, como Nordeste e Norte do nosso país;
