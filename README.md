@@ -1,3 +1,14 @@
+# Antes de tudo, resumindo...
+* Tempo de leitura:
+* Tópicos:
+** Bem-vindo, visitante!
+** Mas o que é geração Z? 
+** Por que a *Z* X Vida Profissional?
+** Legal. Como ajudar?
+** Quero ir além: divulgação
+** Divulgação e informações até o momento - salve, público-alvo!
+** Sobre e conheça-me
+
 # Bem-vindo, visitante!
 Este site é parte do projeto de pesquisa *Geração Z: expectativas e desafios na gestão*. A pesquisa quer conhecer as expectativas profissionais de jovens brasileiros e, com essa informação, levantar os desafios a enfrentar por empresas que possuem, ou pretende possuir, este público-alvo.
 
@@ -18,9 +29,18 @@ Desde já agradeço o imenso apoio. Uma atitude que pode parecer simples, mas qu
 
 Compartilhe em grupos com jovens de até 25 anos em 2018. Pode ser o grupo do trabalho, escola, faculdade, igreja, aquele *grupo da galera* (faz um *offtopic* lá para a pesquisa), ... Toda ajuda é bem-vinda!
 
+# Divulgação e informações até o momento - salve, público-alvo!
+O que temos até o momento e do que precisamos:
+1. Muitos respondentes de 1993 a 1998. **Precisamos ouvir mais pessoas que nasceram de 1998 a 2002**;
+2. 60% são homens. **Cadê as mulheres (#girlpower)?** Ah! Ouvir pessoas que **não se identificam com os gêneros biológicos é importante**, estamos sentindo falta da opinião destas pessoas, pois a pesquisa inclui e quer ouvir estas pessoas.
+3. Precisamos de pessoas de todo o Brasil. Há maior participação da região Sudeste do Brasil. Sendo assim, é importante divulgar para pessoas de outras regiões, como Nordeste e Norte do nosso país;
+4. A maioria ainda são estudantes universitários! Isso é bem legal, reflete muito bem o que esperamos com a pesquisa. Mas caso não entrou para a universidade, ou já concluiu, e encaixa-se nos critérios, por favor, participe!
+5. **Alô, alô, Ciência Humanas e Biológicas**: não deixe a maioria de Ciências Exatas fazer *bullying* com vocês (risos :D). Precisamos ouvir mais pessoas com interesse em Humanas e Biológicas.
+6. O objetivo da pesquisa é ser transparente: infelizmente, **poucos acreditando no mercado brasileiro**. Gostariamos de ouvir mais opiniões, participe!
+
 # Sobre e conheça-me
 Este é um trabalho parte da conclusão da monografia de Denis Bittencourt Muniz para o curso MBA em Gestão de Projetos da Escola Superior de Agricultura Luiz de Queiroz (ESALQ), escola superior integrante da Universidade de São Paulo (USP).
 
-Contato, dúvidas, críticas e sugestões: [mande um e-mail para *denis.dbm at gmail.com*](denis.dbm@gmail.com), ou visite meu [perfil no LinkedIn](https://www.linkedin.com/in/denisdbm/) ou no [Facebook](https://www.facebook.com/denis.bittencourtmuniz).
+Contato, dúvidas, críticas e sugestões: [mande um e-mail para *denis.dbm at gmail.com*](mailto:denis.dbm@gmail.com), ou visite meu [perfil no LinkedIn](https://www.linkedin.com/in/denisdbm/) ou no [Facebook](https://www.facebook.com/denis.bittencourtmuniz).
 
 Sobre a ESALQ: [visite o site da instituição](http://www4.esalq.usp.br/).
