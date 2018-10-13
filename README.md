@@ -27,11 +27,13 @@ Se você é brasileiro, nascido a partir de 1993, possui até 25 anos em 2018, p
 # Quero ir além: divulgação
 Desde já agradeço o imenso apoio. Uma atitude que pode parecer simples, mas que gera um grande movimento. Divulgação pode ser feita pela Internet. Até montei um pequeno texto padronizado para divulgação:
 
-```Como será que os jovens brasileiros andam encarando o mercado de trabalho? Quais são as expectativas? Como está sendo a experiência de trabalhar com esta nova geração?
+```
+Como será que os jovens brasileiros andam encarando o mercado de trabalho? Quais são as expectativas? Como está sendo a experiência de trabalhar com esta nova geração?
 
 Com o apoio da USP, queremos entender as expectativas profissionais de pessoas com até 25 anos em 2018. Anônimo, rápido (5 min), acessível pelo celular e apenas fins acadêmicos: https://pt.surveymonkey.com/r/usp-geracao-z
 
-#Partiu me ajudar, respondendo e compartilhando com mais jovens? :D Valeu!```
+#Partiu me ajudar, respondendo e compartilhando com mais jovens? :D Valeu!
+```
 
 Compartilhe em grupos com jovens de até 25 anos em 2018. Pode ser o grupo do trabalho, escola, faculdade, igreja, aquele *grupo da galera* (faz um *offtopic* lá para a pesquisa), ... Toda ajuda é bem-vinda!
 
