@@ -45,7 +45,7 @@ Atualizado em: 13/10/2018. O que temos até o momento e do que precisamos:
 6. O objetivo da pesquisa é ser transparente: infelizmente, **poucos acreditando no mercado brasileiro**. Gostariamos de ouvir mais opiniões, participe!
 
 # Sobre e conheça-me
-Este é um trabalho parte da conclusão da monografia de Denis Bittencourt Muniz para o curso MBA em Gestão de Projetos da Escola Superior de Agricultura Luiz de Queiroz (ESALQ), escola superior integrante da Universidade de São Paulo (USP).
+Este é um trabalho parte da conclusão da monografia de Denis Bittencourt Muniz para o curso MBA em Gestão de Projetos da Escola Superior de Agricultura Luiz de Queiroz (ESALQ), escola superior integrante da Universidade de São Paulo (USP). Trabalho com desenvolvimento de software, sou analista de sistemas, e durante minha jornada profissional interessei aprender mais sobre Gestão de Projetos, por mais que eu ame parte técnica. Ah! Este site está hospedado no GitHub, uma *"rede social de desenvolvedores"* de software, através do *GitHub Pages*.
 
 Contato, dúvidas, críticas e sugestões: [mande um e-mail para *denis.dbm at gmail.com*](mailto:denis.dbm@gmail.com), ou visite meu [perfil no LinkedIn](https://www.linkedin.com/in/denisdbm/) ou no [Facebook](https://www.facebook.com/denis.bittencourtmuniz).
 
