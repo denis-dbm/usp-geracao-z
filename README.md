@@ -6,7 +6,7 @@
   * [Por que a *Z* X Vida Profissional?](#por-que-a-z-x-vida-profissional)
   * [Legal. Como ajudar?](#legal-como-ajudar)
   * [Quero ir além: divulgação](#quero-ir-além-divulgação)
-  * [Divulgação e informações até o momento - salve, público-alvo!](#divulgação-e-informações-até-o-momento-salve-público-alvo)
+  * [Divulgação e informações até o momento - salve, público-alvo!](#divulgação-e-informações-até-o-momento---salve-público-alvo)
   * [Sobre e conheça-me](#sobre-e-conheça-me)
 
 # Bem-vindo, visitante!
