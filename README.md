@@ -1,13 +1,13 @@
 # Antes de tudo, resumindo...
-* Tempo de leitura:
+* Tempo de leitura: só 04 minutos
 * Tópicos:
-** Bem-vindo, visitante!
-** Mas o que é geração Z? 
-** Por que a *Z* X Vida Profissional?
-** Legal. Como ajudar?
-** Quero ir além: divulgação
-** Divulgação e informações até o momento - salve, público-alvo!
-** Sobre e conheça-me
+  * Bem-vindo, visitante!
+  * Mas o que é geração Z? 
+  * Por que a *Z* X Vida Profissional?
+  * Legal. Como ajudar?
+  * Quero ir além: divulgação
+  * Divulgação e informações até o momento - salve, público-alvo!
+  * Sobre e conheça-me
 
 # Bem-vindo, visitante!
 Este site é parte do projeto de pesquisa *Geração Z: expectativas e desafios na gestão*. A pesquisa quer conhecer as expectativas profissionais de jovens brasileiros e, com essa informação, levantar os desafios a enfrentar por empresas que possuem, ou pretende possuir, este público-alvo.
@@ -26,6 +26,12 @@ Se você é brasileiro, nascido a partir de 1993, possui até 25 anos em 2018, p
 
 # Quero ir além: divulgação
 Desde já agradeço o imenso apoio. Uma atitude que pode parecer simples, mas que gera um grande movimento. Divulgação pode ser feita pela Internet. Até montei um pequeno texto padronizado para divulgação:
+
+`Como será que os jovens brasileiros andam encarando o mercado de trabalho? Quais são as expectativas? Como está sendo a experiência de trabalhar com esta nova geração?
+
+Com o apoio da USP, queremos entender as expectativas profissionais de pessoas com até 25 anos em 2018. Anônimo, rápido (5 min), acessível pelo celular e apenas fins acadêmicos: https://pt.surveymonkey.com/r/usp-geracao-z
+
+#Partiu me ajudar, respondendo e compartilhando com mais jovens? :D Valeu!`
 
 Compartilhe em grupos com jovens de até 25 anos em 2018. Pode ser o grupo do trabalho, escola, faculdade, igreja, aquele *grupo da galera* (faz um *offtopic* lá para a pesquisa), ... Toda ajuda é bem-vinda!
 
