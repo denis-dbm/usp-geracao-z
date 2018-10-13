@@ -6,7 +6,7 @@
   * [Por que a *Z* X Vida Profissional?](#por-que-a-z-x-vida-profissional)
   * [Legal. Como ajudar?](#legal-como-ajudar)
   * [Quero ir além: divulgação](#quero-ir-além-divulgação)
-  * [Divulgação e informações até o momento - salve, público-alvo!](#divulgação-e-informações-até-o-momento---salve-público-alvo)
+  * [Informações até o momento](#informações-até-o-momento)
   * [Sobre e conheça-me](#sobre-e-conheça-me)
 
 # Bem-vindo, visitante!
@@ -35,7 +35,7 @@ Desde já agradeço o imenso apoio. Uma atitude que pode parecer simples, mas qu
 
 Compartilhe em grupos com jovens de até 25 anos em 2018. Pode ser o grupo do trabalho, escola, faculdade, igreja, aquele *grupo da galera* (faz um *offtopic* lá para a pesquisa), ... Toda ajuda é bem-vinda!
 
-# Divulgação e informações até o momento - salve, público-alvo!
+# Informações até o momento
 O que temos até o momento e do que precisamos:
 1. Muitos respondentes de 1993 a 1998. **Precisamos ouvir mais pessoas que nasceram de 1998 a 2002**;
 2. 60% são homens. **Cadê as mulheres (#girlpower)?** Ah! Ouvir pessoas que **não se identificam com os gêneros biológicos é importante**, estamos sentindo falta da opinião destas pessoas, pois a pesquisa inclui e quer ouvir estas pessoas.
