@@ -39,8 +39,8 @@ Compartilhe em grupos com jovens de até 25 anos em 2018. Pode ser o grupo do tr
 Atualizado em: 13/10/2018. O que temos até o momento e do que precisamos:
 1. Muitos respondentes de 1993 a 1998. **Precisamos ouvir mais pessoas que nasceram de 1998 a 2002**;
 2. 60% são homens. **Cadê as mulheres (#girlpower)?** Ah! Ouvir pessoas que **não se identificam com os gêneros biológicos é importante**, estamos sentindo falta da opinião destas pessoas, pois a pesquisa inclui e quer ouvir estas pessoas.
-3. Precisamos de pessoas de todo o Brasil. Há maior participação da região Sudeste do Brasil. Sendo assim, é importante divulgar para pessoas de outras regiões, como Nordeste e Norte do nosso país;
-4. A maioria ainda são estudantes universitários! Isso é bem legal, reflete muito bem o que esperamos com a pesquisa. Mas caso não entrou para a universidade, ou já concluiu, e encaixa-se nos critérios, por favor, participe!
+3. Precisamos de **pessoas de todo o Brasil**. Há maior participação da região Sudeste do Brasil. Sendo assim, é importante **divulgar para pessoas de outras regiões** do nosso país;
+4. A maioria ainda são estudantes universitários! Isso é bem legal, reflete muito bem o que esperamos com a pesquisa. Mas caso não entrou para a universidade, ou já concluiu, e encaixa-se nos critérios, **por favor, participe**!
 5. **Alô, alô, Ciência Humanas e Biológicas**: não deixe a maioria de Ciências Exatas fazer *bullying* com vocês (risos :D). Precisamos ouvir mais pessoas com interesse em Humanas e Biológicas.
 6. O objetivo da pesquisa é ser transparente: infelizmente, **poucos acreditando no mercado brasileiro**. Gostariamos de ouvir mais opiniões, participe!
 
