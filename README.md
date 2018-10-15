@@ -1,5 +1,6 @@
 # Antes de tudo, resumindo...
 * Tempo de leitura: só 04 minutos
+* Se você saiu sem querer da pesquisa, volte: [clicando aqui](https://pt.surveymonkey.com/r/usp-geracao-z)
 * Tópicos:
   * [Bem-vindo, visitante!](#bem-vindo-visitante)
   * [Mas o que é geração Z?](#mas-o-que-é-geração-z)
@@ -10,7 +11,7 @@
   * [Sobre e conheça-me](#sobre-e-conheça-me)
 
 # Bem-vindo, visitante!
-Este site é parte do projeto de pesquisa *Geração Z: expectativas e desafios na gestão*. A pesquisa quer conhecer as expectativas profissionais de jovens brasileiros e, com essa informação, levantar os desafios a enfrentar por empresas que possuem, ou pretende possuir, este público-alvo.
+Este site é parte do projeto de pesquisa *Geração Z: expectativas e desafios na gestão*. A pesquisa, que possui o apoio da Universidade de São Paulo (USP), quer conhecer as expectativas profissionais de jovens brasileiros e, com essa informação, levantar os desafios a enfrentar por empresas que possuem, ou pretende possuir, este público-alvo.
 
 # Mas o que é geração Z?
 Geração Z é a geração marcada por pessoas que nasceram na década de 90 (1990) até os meados dos anos 2000 (2005). Como há vários estudos sobre gerações, incluíndo a *Z*, há pesquisadores que defendem que o início da geração começou em 1995. Independente de quando começou, as pessoas da *Z* são conhecidas por serem **nativos digitais**, terem **forte senso de propósito** e **vontade de mudar o mundo**, além de herdarem algumas características da geração anterior, a geração Y, como, por exemplo, **valorização da autonomia**. Se quiser saber mais:
